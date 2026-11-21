@@ -1,2 +1,2 @@
 # WreslteMania-Sumo
-A game for Haven Delhi
+A web game designed for the event haven delhi
